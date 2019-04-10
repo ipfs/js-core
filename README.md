@@ -33,6 +33,7 @@ In alphabetical order we are:
 - [Alan Shaw](https://github.com/alanshaw)
 - [Alex Potsides](https://github.com/achingbrain)
 - [David Dias](https://github.com/daviddias)
+- [Dirk McCormick](https://github.com/dirkmc)
 - [Jacob Heun](https://github.com/jacobheun)
 - [Vasco Santos](https://github.com/vasco-santos)
 - [Volker Mische](https://github.com/vmx)
