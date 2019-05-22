@@ -15,9 +15,7 @@ See our current work-in-progress through our [quarterly OKRs](https://github.com
 
 ## Kanban
 
-[![Throughput Graph](https://graphs.waffle.io/ipfs/js-waffle/throughput.svg)](https://waffle.io/ipfs/js-waffle/metrics/throughput)
-
-https://waffle.io/ipfs/js-waffle
+[Zenhub JS Core Kanban Board](https://app.zenhub.com/workspaces/js-core-5ce2c3b92b8e1f07d1c356e2/)
 
 ## Weekly Sync
 
